@@ -4,8 +4,8 @@ This repository houses StreamerBot exports and scripts created by Zaygnor to do 
 
 ## What do these do?
 
-### Zaygnor Random Element Shower
-You set a list of sources from OBS in the script. Then when triggered the script will show a random source. Option to show them sequentially.
+### Zaygnor Random Shower
+There are two functions here. The first lets you specify a folder and have a random image from the folder set as the source for an OBS "image" source. The second will show one from a list of sources in OBS. Using the second allows you to set the placement/filters/etc. of the sources independently.
 
 ### Zaygnor Spelling Bee
 This set of commands let chatters add letters to a "word". Then streamer can send get the word to display on screen or send to TTS or whatever.
