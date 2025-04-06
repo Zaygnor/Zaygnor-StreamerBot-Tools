@@ -1,5 +1,5 @@
 ## What is this?
-This repository houses StreamerBot exports and scripts created by Zaygnor to do various things. Exports have their own readme file with minimal instructions/notes. Scripts are written as clearly as possible with comments to help you make relevant adjustments. Enjoy.
+This repository houses Streamer.bot exports and scripts created by Zaygnor to do various things. Exports have their own readme file with minimal instructions/notes. Scripts are written as clearly as possible with comments to help you make relevant adjustments. Enjoy.
 
 
 ## What do these do?
@@ -9,3 +9,7 @@ There are two functions here. The first lets you specify a folder and have a ran
 
 ### Zaygnor Spelling Bee
 This set of commands let chatters add letters to a "word". Then streamer can send get the word to display on screen or send to TTS or whatever.
+
+
+### Zaygnor Utilities
+A collection of random one-off useful tools/actions I've created. See it's readme for the list.
